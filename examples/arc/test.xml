@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <child1 a1="v1" a2="v1" a3="v1">Message from Child</child1>
+  <child2 a1="v2" a2="v2" a3="v2">Message from Child</child2>
+  <child3 a1="v3" a2="v3" a3="v3">Message from Child</child3>
+  <child4 a1="v4" a2="v4" a3="v4">Message from Child</child4>
+</root>
